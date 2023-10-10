@@ -5,3 +5,5 @@ $stok_barang = [
     ['nama' => 'Barang C', 'stok' => 75],
 ];
 ?>
+
+<h3>manado</h3>
