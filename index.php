@@ -15,6 +15,7 @@
     </ul>
 </nav>
     <h1>Pencatatan Barang Masuk dan Keluar</h1>
+    <h2>Testing Push</h2>
 
     <h2>Form Barang Masuk</h2>
     <form action="process.php" method="post">
